@@ -1,0 +1,27 @@
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+"GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
+]
+VERSION="2.0.0"
+
+[DOCUMENTATION]
+ORG_NAME="Cryptocurrency"
+ORG_URL="https://www.gemsociety.org"
+ORG_DESCRIPTION="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
+ORG_TWITTER="@GEMSOCIETY"
+ORG_LOGO="https://i.ibb.co/7pL4y5J/lemon.png"
+ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+
+
+[[CURRENCIES]]
+code="xLEM"
+issuer="GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
+anchor_asset="false"
+name="Lemon Coin"
+desc="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
+image="https://i.ibb.co/7pL4y5J/lemon.png"
+fixed_number=10000000
+max_number=10000000
+is_unlimited=false
+#LemonCoin was issued using the open and inclusive Stellar blockchain network.
