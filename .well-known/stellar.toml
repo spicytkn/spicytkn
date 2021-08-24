@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
+"GBMESA6JZO5EUPAJDIRJP76KZUPVTL3KQA3I4YQ7Z44E4SVTV7IBMU5Q"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Cryptocurrency"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/7pL4y5J/lemon.png"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="Spicy Token"
+ORG_URL="https://www.spicytoken.org"
+ORG_DESCRIPTION="By helping developers, liquidity providers, and traders, Spicy enables all members of the financial ecosystem to take part in a liquid marketplace."
+ORG_TWITTER="@SpicyToken"
+ORG_LOGO="https://i.ibb.co/HqVLWm3/spicy-logo.png"
+ORG_OFFICIAL_EMAIL="spicytkn@gmail.com"
 
 
 [[CURRENCIES]]
-code="xLEM"
-issuer="GAYQOXMG6LYCHAAPJQOTH6TQQFJ4KXT7EPXSD43SRPET2L5VAPTM56XH"
+code="xspc"
+issuer="GBMESA6JZO5EUPAJDIRJP76KZUPVTL3KQA3I4YQ7Z44E4SVTV7IBMU5Q"
 anchor_asset="false"
-name="Lemon Coin"
-desc="The lemon (Citrus × limon) is a hybrid citrus tree of cultivated origin. The fruit are used primarily for their juice, though the pulp and rind are also used, primarily in cooking or mixing. Lemon juice is about 5% citric acid, which gives lemons a sour taste and a pH of 2 to 3."
-image="https://i.ibb.co/7pL4y5J/lemon.png"
-fixed_number=10000000
-max_number=10000000
+name="Spicy Token"
+desc="Spicy is a shared network for cross-chain communication connecting multiple blockchains into one unified network. This currency gives the ability to buy tokens at a low price and it rises up with every transaction made inside this chain due to the fact that it is interconnected with the Stellar network."
+image="https://i.ibb.co/HqVLWm3/spicy-logo.png"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
-#LemonCoin was issued using the open and inclusive Stellar blockchain network.
+#SpicyToken was issued using the open and inclusive Stellar blockchain network.
