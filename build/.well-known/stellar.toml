@@ -1,7 +1,7 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBMESA6JZO5EUPAJDIRJP76KZUPVTL3KQA3I4YQ7Z44E4SVTV7IBMU5Q"
+"GCGD7WKIYLJHHF3RSGPIYZCYFBTQFWIDXHJ23R4VPWRCS3S6SMEIAIOW"
 ]
 VERSION="2.0.0"
 
@@ -15,13 +15,13 @@ ORG_OFFICIAL_EMAIL="spicytkn@gmail.com"
 
 
 [[CURRENCIES]]
-code="xspc"
-issuer="GBMESA6JZO5EUPAJDIRJP76KZUPVTL3KQA3I4YQ7Z44E4SVTV7IBMU5Q"
+code="xsc"
+issuer="GCGD7WKIYLJHHF3RSGPIYZCYFBTQFWIDXHJ23R4VPWRCS3S6SMEIAIOW"
 anchor_asset="false"
 name="Spicy Token"
 desc="Spicy is a shared network for cross-chain communication connecting multiple blockchains into one unified network. This currency gives the ability to buy tokens at a low price and it rises up with every transaction made inside this chain due to the fact that it is interconnected with the Stellar network."
 image="https://i.ibb.co/HqVLWm3/spicy-logo.png"
-fixed_number=1000000
-max_number=1000000
+fixed_number=500000
+max_number=500000
 is_unlimited=false
 #SpicyToken was issued using the open and inclusive Stellar blockchain network.
