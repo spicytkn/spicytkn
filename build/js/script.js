@@ -27,4 +27,18 @@ if (headerLinks.length > 0) {
     }
 }
 
+$(function() {
+    var token = $(".token-background");
+    $(window).scroll(function() {    
+        var scroll = $(window).scrollTop();
+    
+        if (scroll >= 200) {
+            token.removeClass('token-background').addClass("token-background-scroll");
+        } else {
+            token.removeClass("token-background-scroll").addClass('token-background');
+        }
+    });
+});
+
+
 AOS.init();

@@ -116,6 +116,22 @@ h3 {
     color: #fff
 }
 
+.token-background{
+    z-index: -1;
+    position: fixed;
+    top: 150px;
+    left: 27%;
+}
+
+.token-background-scroll{
+    z-index: -1;
+    position: fixed;
+    top: 150px;
+    left: 27%;
+    opacity: 20%;
+    transition: all 0.5s;
+}
+
 h4 {
     font-size: 24px;
     line-height: 28px;
@@ -255,7 +271,7 @@ p {
 }
 
 .intro .intro_text {
-    margin-top: 90px
+    margin-top: 630px
 }
 
 .intro .intro_text h1 {
@@ -309,10 +325,10 @@ p {
 
 .intro .intro_subbutton {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     justify-self: center;
-    gap: 55px;
-    max-width: 830px;
+    gap: 30px;
+    max-width: 540px;
     margin: 110px auto
 }
 
@@ -427,7 +443,8 @@ p {
 }
 
 .about_us .about_us-body .about_img img {
-    width: 100%;
+    margin-left: 50px;
+    width: 350px;
     -webkit-transition: 1s;
     -o-transition: 1s;
     transition: 1s
@@ -449,13 +466,13 @@ p {
 }
 
 .projects .projects_body {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 50px;
+    display: flex;
+    justify-content: center;
     margin-bottom: 80px
 }
 
 .projects .projects_body .single_cart {
+    
     max-width: 520px;
     min-height: 500px;
     background: #fff;
@@ -470,6 +487,7 @@ p {
 }
 
 .projects .projects_body .single_cart:first-child {
+    
     margin-left: 0
 }
 
