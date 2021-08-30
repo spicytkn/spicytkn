@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 Aug 2021 23:27:14 at https://spicy.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+spicy.org
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://metalinvest.org/ -O1 "C:\My Web Sites\Balica" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, mspicy.orgitive information,spicy.org
+spicy.orgspicy.org
+	such as username/password authentication for websispicy.org this projectspicy.org
+spicy.orgspicy.org
+	do not share these files/folders if you want thesespicy.org remain privatespicy.org
+spicy.orgspicy.org
+spicy.orgspicy.org
+
+23:27:38	Error: 	"Not Found" (404) at link https://metalinvest.org/fonts/Roboto-Bold.woff (from https://metalinvest.org/css/style.min.css)
+
+23:27:38	Error: 	"Not Found" (404) at link https://metalinvest.org/fonts/Roboto-Bold.woff2 (from https://metalinvest.org/css/style.min.css)
+
+23:27:38	Error: 	"Not Found" (404) at link https://metalinvest.org/fonts/Roboto-Light.woff (from https://metalinvest.org/css/style.min.css)
+
+23:27:38	Error: 	"Not Found" (404) at link https://metalinvest.org/fonts/Roboto-Light.woff2 (from https://metalinvest.org/css/style.min.css)
+
+23:27:38	Error: 	"Not Found" (404) at link https://metalinvest.org/fonts/Roboto-Medium.woff (from https://metalinvest.org/css/style.min.css)
+
+23:27:38	Error: 	"Not Found" (404) at link https://metalinvest.org/fonts/Roboto-Medium.woff2 (from https://metalinvest.org/css/style.min.css)
+
+23:27:38	Error: 	"Not Found" (404) at link https://metalinvest.org/fonts/Roboto-Regular.woff2 (from https://metalinvest.org/css/style.min.css)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 seconds : 35 links scanned, 27 files written (625077 bytes overall) [457550 bytes received at 19064 bytes/sec], 455145 bytes transferred using HTTP compression in 20 files, ratio 54%
+
+(7 errors, 0 warnings, 0 messages)
+
