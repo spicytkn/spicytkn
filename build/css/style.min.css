@@ -120,14 +120,15 @@ h3 {
     z-index: -1;
     position: fixed;
     top: 150px;
-    left: 27%;
+    left: 30%;
+
 }
 
 .token-background-scroll{
     z-index: -1;
     position: fixed;
     top: 150px;
-    left: 27%;
+    left: 30%;
     opacity: 20%;
     transition: all 0.5s;
 }
