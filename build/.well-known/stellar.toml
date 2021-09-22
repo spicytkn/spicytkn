@@ -17,7 +17,7 @@ ORG_OFFICIAL_EMAIL="spicytkn@gmail.com"
 [[CURRENCIES]]
 code="xsc"
 issuer="GCGD7WKIYLJHHF3RSGPIYZCYFBTQFWIDXHJ23R4VPWRCS3S6SMEIAIOW"
-anchor_asset="false"
+anchor_asset="Evergreen Marine Corporation"
 name="Spicy Token"
 desc="Spicy is a shared network for cross-chain communication connecting multiple blockchains into one unified network. This currency gives the ability to buy tokens at a low price and it rises up with every transaction made inside this chain due to the fact that it is interconnected with the Stellar network."
 image="https://i.ibb.co/HqVLWm3/spicy-logo.png"
